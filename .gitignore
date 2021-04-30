@@ -1,0 +1,5 @@
+// files to ignore
+
+
+# dependencies
+/node_modules
